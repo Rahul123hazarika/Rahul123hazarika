@@ -14,4 +14,30 @@
 
 ---
 
+## 👨‍💻 About Me
+```yaml
+Name: Rahul Hazarika
+Role: AI Engineer | Full Stack Developer
+Education: MCA Graduate
+Location: India 🇮🇳
 
+Current Focus:
+  - AI & Machine Learning
+  - Full Stack Development
+  - Scalable Backend Systems
+  - Cloud & DevOps
+
+Currently Learning:
+  - Advanced AI
+  - System Design
+  - AWS Cloud
+  - Docker & Kubernetes
+
+Open To:
+  - Full-Time Opportunities
+  - Freelance Projects
+  - Open Source Collaboration
+
+Fun Fact:
+  "I enjoy turning real-world problems into software solutions."
+```
