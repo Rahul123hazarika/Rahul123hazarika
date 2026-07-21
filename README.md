@@ -9,7 +9,7 @@
 
 </p>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Building+Intelligent+Applications+%F0%9F%9A%80" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&width=435&lines=Building+Intelligent+Applications+%F0%9F%9A%80" alt="Typing SVG" /></a>
 </p>
 
 ---
