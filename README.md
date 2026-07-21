@@ -20,6 +20,7 @@ Name: Rahul Hazarika
 Current Role: Associate Software Engineer
 Education: MCA Graduate
 Location: India, Bengaluru
+Email: rahulhazatika600@gmail.com
 
 Open To:
   - Full-Time Opportunities
