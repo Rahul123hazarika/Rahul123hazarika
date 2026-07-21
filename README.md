@@ -15,4 +15,6 @@
 ---
 
 ## 👨‍💻 About Me
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&width=435&lines=Name%3A+Rahul+Hazarika+Current+Role%3A+Associate+Software+Engineer+Education%3A+MCA+Graduate+Location%3A+India%2C+Bengaluru+Email%3A+rahulhazatika600%40gmail.com++Open+To%3A+++-+Full-Time+Opportunities+++-+Freelance+Projects+++-+Open+Source+Collaboration++Fun+Fact%3A+++%22I+enjoy+turning+real-world+problems+into+software+solutions.%22" alt="Typing SVG" /></a>
+```yaml
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F7AC03&width=435&lines=Name%3A+Rahul+Hazarika" alt="Typing SVG" /></a>
+```
