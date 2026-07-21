@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center">
+  <img src="a_wide_high_resolution_dark_tech_themed_banner.png" alt="Rahul Hazarika Banner" width="100%">
+</p>
