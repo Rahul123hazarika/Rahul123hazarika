@@ -8,7 +8,9 @@
 <img src="Futuristic tech portfolio header design.png" alt="Rahul Hazarika Banner" width="100%"/>
 
 </p>
-
+<p align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Building+Intelligent+Applications+%F0%9F%9A%80)](https://git.io/typing-svg)
+</p>
 
 ---
 
