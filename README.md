@@ -8,14 +8,15 @@
 <img src="Futuristic tech portfolio header design.png" alt="Rahul Hazarika Banner" width="100%"/>
 
 </p>
-<p align="center">
-  <img src="Dog Man GIF by Pluralsight.gif" width="450" alt="Coding GIF"/>
-</p>
+
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&width=435&lines=Building+Intelligent+Applications+%F0%9F%9A%80" alt="Typing SVG" /></a>
 </p>
 
 ---
+<p align="center">
+  <img src="Dog Man GIF by Pluralsight.gif" width="450" alt="Coding GIF"/>
+</p>
 
 ## 👨‍💻 About Me
 
