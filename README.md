@@ -22,4 +22,5 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=2500&color=5FF710&width=435&lines=Email%3A+rahulhazatika600%40gmail.com" alt="Typing SVG" /></a>
 
 ## Open To:
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=2500&color=61F7CE&width=435&lines=Help+you+and+grab+opportunity+at+anytime." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=16&pause=5000&color=61F7CE&width=435&lines=Help+you+and+grab+opportunity+at+anytime." alt="Typing SVG" /></a>
+
