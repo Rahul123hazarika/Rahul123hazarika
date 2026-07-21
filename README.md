@@ -9,7 +9,7 @@ AI Engineer | Full Stack Developer | MCA Graduate
 
 <p align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=AI+Engineer;Full+Stack+Developer;Java+%7C+Spring+Boot+%7C+React+%7C+Python;Building+Intelligent+Applications;Always+Learning+New+Technologies+🚀" />
+<img src="Futuristic tech portfolio header design.png" alt="Rahul Hazarika Banner" width="100%"/>
 
 </p>
 
