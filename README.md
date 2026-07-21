@@ -1,11 +1,4 @@
 
-<h1 align="center">
-Hi 👋, I'm Rahul Hazarika
-</h1>
-
-<h3 align="center">
-AI Engineer | Full Stack Developer | MCA Graduate
-</h3>
 
 <p align="center">
 
@@ -13,11 +6,6 @@ AI Engineer | Full Stack Developer | MCA Graduate
 
 </p>
 
-<p align="center">
-
-Building intelligent, scalable, and impactful software that solves real-world problems.
-
-</p>
 
 ---
 
