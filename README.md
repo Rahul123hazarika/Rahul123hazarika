@@ -17,3 +17,6 @@ Here are some ideas to get you started:
 <p align="center">
   <img src="Futuristic tech portfolio header design.png" alt="Rahul Hazarika Banner" width="100%">
 </p>
+<h1 align="center">
+Hi 👋, I'm Rahul Hazarika
+</h1>
