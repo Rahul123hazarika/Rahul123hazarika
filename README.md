@@ -6,6 +6,9 @@
 <p align="center">
 
 <img src="Futuristic tech portfolio header design.png" alt="Rahul Hazarika Banner" width="100%"/>
+<p align="center">
+  <img src="Dog Man GIF by Pluralsight.gif" width="450" alt="Coding GIF"/>
+</p>
 
 </p>
 <p align="center">
