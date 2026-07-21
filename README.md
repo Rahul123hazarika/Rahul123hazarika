@@ -15,6 +15,6 @@
 ---
 
 ## 👨‍💻 About Me
-```yaml
+
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=F7AC03&width=435&lines=Name%3A+Rahul+Hazarika" alt="Typing SVG" /></a>
-```
+
