@@ -15,7 +15,7 @@
 
 ---
 <p align="center">
-  <img src="Dog Man GIF by Pluralsight.gif" width="450" alt="Coding GIF"/>
+  <img src="./Dog Man GIF by Pluralsight.gif" width="450" alt="Coding GIF"/>
 </p>
 
 ## 👨‍💻 About Me
